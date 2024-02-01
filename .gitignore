@@ -1,0 +1,7 @@
+mongo/
+
+.env
+
+docker-compose.yml
+
+node_modules/
